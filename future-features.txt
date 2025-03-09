@@ -9,9 +9,11 @@ Better glowing squids:
 Better Ink Sac: 
 1) Can be used for "Blindness potion"
 2) Blinds the entity on hit.
+
 Better Glow Ink Sack: 
 1) Can be used for "Glowing potion"
 2) Can glow entity by punch
+3) Can be used for new lamp type. Glows in the rain
 
 Features:
 1) A bottle of ink will be added (crafts will now be made from it). You need to combine the bottle and ink sac.
