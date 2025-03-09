@@ -1,10 +1,10 @@
 Better squids:
-1) Blinds entities when emitting ink
+1) When emitting ink, it blinds and knockbacks entities.
 
 Better glowing squids:
 1) Can spawn only in a reservoir with a volume of 8 blocks (2x2x2)
 2) Height are not necessary (They can spawn light level of 7 or lower)
-3) Glows entities when emitting ink
+3)1) When emitting ink, it glows and knockbacks entities.
 
 Better Ink Sac: 
 1) Can be used for "Blindness potion"
