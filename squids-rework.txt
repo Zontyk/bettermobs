@@ -18,7 +18,5 @@ Better Glow Ink Sack:
 Features:
 1) A bottle of ink will be added (crafts will now be made from it). You need to combine the bottle and ink sac.
 2) Ink can be collected by bottle(also by dispenser with bottle)
-3)  Enchanting rework: To enchant an item, you now need to wait a little while. Time: 10 seconds for the first at the cost of enchantment experience, 15 for the second and 20 for the third. The price and time of enchantment can be reduced. Glowing ink reduces the price of any enchantment by a level, and regular ink reduces the time required for enchantment by 8 seconds. The enchantment table will have 2 slots (2 inkwells) that hold normal and glowing ink, one bottle of ink will be consumed per enchantment cycle.
-In addition, the price of enchantments by default will already be reduced by 20%, to balance with the enchantment time.
-4) The trident can be smeared with ink and when it hits an enemy it imposes the corresponding effect (glow or blindness)
-5) Squids can be breeded by fish
+3) The trident can be smeared with ink and when it hits an enemy it imposes the corresponding effect (glow or blindness)
+4) Squids can be breeded by fish
