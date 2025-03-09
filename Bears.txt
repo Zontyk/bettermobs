@@ -1,7 +1,7 @@
 Polar bears:
 1)Can catch fish when in water
 2) They can dig dens in the snow or dig random snow block
-3) Skeaping when snow falling
+3) Sleeping when snow falling. While the bear is sleeping, the player can steal fish or berries.
 4) Can collect berries
 5) Can be breeded by berries
 Pandas: 
