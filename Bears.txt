@@ -5,3 +5,4 @@ Polar bears:
 4) Can collect berries
 5) Can be breeded by berries
 Pandas: 
+1) Can break bamboo if it is not more than 3 blocks high.
