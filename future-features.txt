@@ -1,0 +1,17 @@
+Better squids:
+
+Better glowing squids:
+1) Can spawn only in a reservoir with a volume of 8 blocks (2x2x2)
+2) Height are not necessary (They can spawn light level of 7 or lower)
+
+
+Better Glow Ink Sack: 
+1) Can be used for "Glowing potion"
+2) Can glow entity by punch
+
+
+
+Features:
+1) The ink of all squids repels other creatures.
+2) A bottle of ink will be added (crafts will now be made from it). You need to combine the bottle and ink sac.
+3) Ink can be collected by bottle(also by dispenser with bottle)
