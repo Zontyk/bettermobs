@@ -1,0 +1,1 @@
+1) Can attract items (every 200 tick attracts random item in 5 block radius)
