@@ -1,3 +1,5 @@
 1) The allay gets attached to the note block forever, but if the block breaks, the allay gets untied
 2) Allay also can be founded in "Cherry grove" and can be obtained using vex, see vex-rework.txt
 3) Slight increase in movement speed by 10%
+4) If several note blocks nearby produced a sound, then it will predominantly fly to the one it flew to last time.
+5) The horn can serve as bait for them.
