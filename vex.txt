@@ -1,1 +1,2 @@
 1) Can be turned into Allay: if you give him an amethyst, then for 15 seconds he will be very slow and will not be able to deal damage. If you give him an amethyst during these 15 seconds, then he will become an Allay.
+2) The sounds of note blocks and horns scare them away.
